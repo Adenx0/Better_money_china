@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "better_money_chinese:items/10yuan_"
+  }
+}

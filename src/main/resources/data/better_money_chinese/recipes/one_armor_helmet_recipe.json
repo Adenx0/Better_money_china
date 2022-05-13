@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "1": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "2": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "3": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "5": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    }
+  },
+  "result": {
+    "item": "better_money_chinese:one_armor_helmet",
+    "count": 1
+  }
+}

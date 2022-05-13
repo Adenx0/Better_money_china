@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "2": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "3": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "4": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "5": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "6": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "7": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    },
+    "8": {
+      "item": "better_money_chinese:one_hundred_yuan"
+    }
+  },
+  "result": {
+    "item": "better_money_chinese:one_armor_chestplate",
+    "count": 1
+  }
+}

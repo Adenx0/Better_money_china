@@ -1,0 +1,202 @@
+{
+  "mod_elements": [
+    {
+      "name": "OneSent",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_sent",
+      "path": "~/money"
+    },
+    {
+      "name": "OneAngleOfCoin",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_angle_of_coin",
+      "path": "~/money"
+    },
+    {
+      "name": "OneHundredYuan",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_hundred_yuan",
+      "path": "~/money"
+    },
+    {
+      "name": "Money",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "money",
+      "path": "~/money"
+    },
+    {
+      "name": "OldOneYuanBanknotes",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "old_one_yuan_banknotes",
+      "path": "~/money"
+    },
+    {
+      "name": "OneAngleOfBanknotes",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_angle_of_banknotes",
+      "path": "~/money"
+    },
+    {
+      "name": "FiveSents",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_sents",
+      "path": "~/money"
+    },
+    {
+      "name": "FiveAngle",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_angle",
+      "path": "~/money"
+    },
+    {
+      "name": "OneYuan",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_yuan",
+      "path": "~/money"
+    },
+    {
+      "name": "TwoYuan",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "two_yuan",
+      "path": "~/money"
+    },
+    {
+      "name": "ThreeYuan",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "three_yuan",
+      "path": "~/money"
+    },
+    {
+      "name": "FiveAngleOfBanknote",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_angle_of_banknote",
+      "path": "~/money"
+    },
+    {
+      "name": "FiveYuan",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_yuan",
+      "path": "~/money"
+    },
+    {
+      "name": "TenYuan",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ten_yuan",
+      "path": "~/money"
+    },
+    {
+      "name": "TwentyYuan",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "twenty_yuan",
+      "path": "~/money"
+    },
+    {
+      "name": "FiftyYuan",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fifty_yuan",
+      "path": "~/money"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.better_money_chinese.one_sent": "1分",
+      "item.better_money_chinese.twenty_yuan": "20元",
+      "item.better_money.one_hundred_yuan": "100元",
+      "item.better_money_chinese.one_angle_of_coin": "1角硬币",
+      "item.better_money_chinese.five_sents": "5分",
+      "item.better_money_chinese.two_yuan": "2元",
+      "item.better_money_chinese.one_angle_of_banknotes": "一角纸币",
+      "item.better_money_chinese.fifty_yuan": "50元",
+      "item.better_money_chinese.one_hundred_yuan": "100元",
+      "item.better_money_chinese.ten_yuan": "10元",
+      "item.better_money.one_angle_of_coin": "1角硬币",
+      "item.better_money_chinese.five_angle": "5角",
+      "item.better_money_chinese.three_yuan": "3元",
+      "item.better_money_chinese.old_one_yuan_banknotes": "一元纸币-旧",
+      "item.better_money_chinese.five_angle_of_banknote": "5角纸币",
+      "item.better_money_chinese.five_yuan": "5元",
+      "item.better_money.one_sent": "1分",
+      "itemGroup.tabmoney": "钱",
+      "item.better_money_chinese.one_yuan": "1元"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "money",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "better_money_chinese",
+    "modName": "Better money Chinese",
+    "version": "1.0.0",
+    "description": "一个添加了人民币的模组",
+    "author": "Adenx",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.bettermoneychinese",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200118711
+}
